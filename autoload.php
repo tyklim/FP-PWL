@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-/* TEST UPDATE
+/* TEST UPDATE.
 | -------------------------------------------------------------------
 | AUTO-LOADER
 | -------------------------------------------------------------------
